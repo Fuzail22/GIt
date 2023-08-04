@@ -2,15 +2,15 @@
 <p align=center>A reference for useful git commands with explanation of its usage.</p>
 
 ## Begin
-1. creates a folder
+1. Tocreates a folder
    ```
    mkdir <DIR NAME>
    ```
-2. TO open the folder in vs code.
+2. T open the folder in vs code.
    ```
    code .
    ```
-3. The following command initiallizes an empty git repository.
+3. To initialize an empty git repository.
    ```
    git init
    ```
