@@ -91,6 +91,7 @@ Assuming you have now created some files in your directory and you want to save 
 3. To check which branch we are locally working on,
    ```
    git branch
-   ```
-4.   
-link for reference: https://www.nobledesktop.com/learn/git/stage-commit-files
+   ```   
+### Reference:
+Ref: https://www.nobledesktop.com/learn/git/stage-commit-files
+Remove Sensistive Data: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
