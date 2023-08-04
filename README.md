@@ -48,7 +48,7 @@ Assuming you have now created some files in your directory and you want to save 
    ```
    git remote add origin <REMOTE GITHUB REPO URL>
    ```
-2. To check,
+2. To check if remote origin is configured,
    ```
    git remote -v
    ```
