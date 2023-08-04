@@ -80,12 +80,17 @@ Assuming you have now created some files in your directory and you want to save 
    ```
 
 ## Working with feature branches:
-1. To work on a feature without disturbin the main or base branch use the following command to copy and create a new branch
-   ```
-   git checkout -b <branch name>
-   ```
-2. To make a copy locally of some repository and then work
+1. To make a copy locally of some repository and then work
    ```
    git clone <REMOTE REPO URL>
    ```
+2. To work on a feature without disturbin the main or base branch use the following command to copy and create a new branch
+   ```
+   git checkout -b <FEATURE BRANCH NAME>
+   ```
+3. To check which branch we are locally working on,
+   ```
+   git branch
+   ```
+4.   
 link for reference: https://www.nobledesktop.com/learn/git/stage-commit-files
