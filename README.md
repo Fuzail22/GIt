@@ -21,22 +21,24 @@
    ```
    git status
    ```
->Note: Before adding files to track. Add path of file or folder that need not be tracked to .gitignore file.
->   To create the file,
->   ```
->   touch .gitignore
->   ```
->   Then open the .gitignore file and add paths of files and folders that needs to be neglected when syncing to remote repository.
->
-5. To track all files.( i.e, add these files to tracked label so that it can be commited later)
+5. To create the .gitignore file,
+   ```
+   touch .gitignore
+   ```
+   >Then open the .gitignore file and add paths of files and folders that needs to be neglected when syncing to remote
+   >repository(for instance the node modules directory).\
+   >\
+   >Note: Before adding files to track using the following commnad. Add path of file or folder that need not be tracked to
+   >.gitignore file.
+6. To track all files.( i.e, add these files to tracked label so that it can be commited later)
    ```
    git add .
    ```
-6. To commit changes locally.
+7. To commit changes locally.
    ```
    git commit -m "<COMMIT MESSAGE>"
    ```
-7. At times with latest git the branch might be master you can change it to main using,
+8. At times with latest git the branch might be master you can change it to main using,
    ```
    git branch -M main
    ```
