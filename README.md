@@ -26,7 +26,7 @@ A reference for useful git commands with explanation of its usage.
 >   ```
 >   touch .gitignore
 >   ```
->   Then open the file and add paths of files and folders that needs to be neglected when syncing to remote repository.
+>   Then open the .gitignore file and add paths of files and folders that needs to be neglected when syncing to remote repository.
 >
 5. To track all files.( i.e, add these files to tracked label so that it can be commited later)
    ```
