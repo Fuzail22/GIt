@@ -54,12 +54,17 @@ Assuming you have now created some files in your directory and you want to save 
    ```
    git push origin <BRANCH NAME>
    ```
-   > The following might even come handy
+   > The following might even come handy for setting the upstream branch
+   ```
+   git push -u origin <BRANCH NAME>
+   ```
+   or
+   
    ```
    git push --set-upstream origin <branch name>
    ```
-   >Note: Nnce upstream is set next time onwards you can push just using git push.
-4. To pull changes, (it does fetch + merge)
+   >Note: Once upstream is set next time onwards you can push just using git push.
+5. To pull changes, (it does fetch + merge)
    ```
    git pull origin <BRANCH NAME>
    ```
