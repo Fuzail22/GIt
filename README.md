@@ -93,5 +93,5 @@ Assuming you have now created some files in your directory and you want to save 
    git branch
    ```   
 ### Reference:
-Ref: https://www.nobledesktop.com/learn/git/stage-commit-files
+Ref: https://www.nobledesktop.com/learn/git/stage-commit-files \
 Remove Sensistive Data: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
