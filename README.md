@@ -2,11 +2,11 @@
 <p align=center>A reference for useful git commands with explanation of its usage.</p>
 
 ## Begin
-1. Tocreates a folder
+1. To creates a folder
    ```
    mkdir <DIR NAME>
    ```
-2. T open the folder in vs code.
+2. To open the folder in vs code.
    ```
    code .
    ```
