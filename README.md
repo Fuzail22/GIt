@@ -42,7 +42,7 @@
    ```
    git branch -M main
    ```
-## To Sync Changes
+## Sync Changes
 Assuming you have now created some files in your directory and you want to save them in your GitHub.
 1. To set up remote where the changes need to be saved or synced later
    ```
