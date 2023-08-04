@@ -1,5 +1,5 @@
-# GIt
-A reference for useful git commands with explanation of its usage.
+<h1 align=center>Git</h1>
+<p align=center>A reference for useful git commands with explanation of its usage.</p>
 
 ## Beginners
 1. creates a folder
